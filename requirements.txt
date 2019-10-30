@@ -25,5 +25,5 @@ social-auth-app-django==3.1.0
 social-auth-core==2.0.0
 stem==1.7.0
 torrequest==0.1.0
-urllib3==1.23
+urllib3==1.24.2
 whitenoise==4.1
